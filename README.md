@@ -4,7 +4,7 @@
 
 Website and admin portal for Humble Light International School, built solo from design to deployment. The platform gives the school a public website and a role-based admin portal to run daily operations: accounts, attendance, fees, communication and exams.
 
-![Admin dashboard](screenshots/admin-dashboard.png)
+![Admin dashboard](admin-dashboard.png)
 
 ## What it does
 
